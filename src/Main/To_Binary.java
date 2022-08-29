@@ -46,5 +46,6 @@ public class To_Binary {
 				scan.close();
 			}
 		}
+		System.out.println(scan);
 	}
 }
